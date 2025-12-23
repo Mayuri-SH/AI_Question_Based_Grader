@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+requests
+pytesseract
+pdf2image
+PyMuPDF
+
